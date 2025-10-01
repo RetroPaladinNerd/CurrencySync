@@ -84,12 +84,42 @@
 
 ## 2.1 Интерфейс пользователя
 
+Главная страница 
 
+![Главная страница](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Main%20window.png)  
 
+Регистрация на сайте 
 
+![Регистрация на сайте ](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Registration.png)  
 
+Вход зарегестрированных пользователей
 
+![Вход зарегестрированных пользователей](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Login.png)  
 
+Основной конвертер
+
+![Основной конвертер](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Converter.png)  
+
+Текущие обменные курсы
+
+![Текущие обменные курсы](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Live%20Exchage%20rates.png)  
+
+Обмен ценных бумаг
+
+![Обмен ценных бумаг](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Securities.png)  
+
+Изменения курса за период времени
+
+![Изменения курса за период времени](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Charts.png)  
+
+Оповещение об изменении курса
+![Оповещение об изменении курса](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Working%20charts.png)  
+
+Конвертер на телефоне
+![Конвертер на телефоне](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Converter%20on%20Iphone.png)  
+
+Обмен ценных бумаг на телефоне
+![Обмен ценных бумаг на телефоне](https://github.com/RetroPaladinNerd/CurrencySync/blob/main/Mockups/Securities%20on%20Iphone.png)  
 
 <a name="user_specifications"/>
 
